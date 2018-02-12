@@ -48,3 +48,149 @@
 2018-02-06 23:12:59,268 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamenCotxox\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
 2018-02-06 23:12:59,268 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-02-06 23:12:59,268 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamenCotxox\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-06 23:18:14,944 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-02-06 23:18:18,059 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mvpigs:lamiaeElWahabi:0.0.1-SNAPSHOT @ C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\pom.xml.
+2018-02-06 23:18:18,754 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-06 23:18:18,754 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-06 23:18:18,757 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-06 23:18:18,757 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-06 23:18:21,467 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mvpigs:lamiaeElWahabi:0.0.1-SNAPSHOT @ C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\pom.xml.
+2018-02-06 23:18:21,480 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-06 23:18:21,481 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-06 23:18:21,483 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-06 23:18:21,483 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-06 23:18:22,558 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-06 23:18:22,558 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-06 23:18:22,560 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-06 23:18:22,560 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-11 21:24:04,612 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-02-12 11:13:57,699 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-02-12 11:32:24,358 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:32:24,358 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:32:24,358 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:32:24,358 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:32:42,864 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:32:42,864 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:32:42,864 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:32:42,864 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:34:37,764 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:34:37,764 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:34:37,764 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:34:37,764 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:34:46,354 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:34:46,370 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:34:46,370 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:34:46,370 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:37:49,357 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:37:49,357 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:37:49,357 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:37:49,357 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:38:13,241 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:38:13,241 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:38:13,241 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:38:13,241 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:40:57,939 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:40:57,940 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:40:57,941 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:40:57,942 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:41:06,825 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:41:06,825 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:41:06,828 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:41:06,828 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:41:55,898 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:41:55,898 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:41:55,900 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:41:55,900 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:42:54,757 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:42:54,757 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:42:54,761 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:42:54,761 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:43:19,521 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:43:19,521 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:43:19,523 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:43:19,523 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:43:35,348 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:43:35,348 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:43:35,350 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:43:35,350 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:45:58,959 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:45:58,959 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:45:58,961 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:45:58,961 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:48:10,359 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:48:10,359 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:48:10,359 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:48:10,359 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:48:17,469 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:48:17,469 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:48:17,469 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:48:17,469 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:48:41,683 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:48:41,683 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:48:41,683 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:48:41,683 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:51:09,402 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:51:09,402 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:51:09,402 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:51:09,402 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:52:15,115 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:52:15,115 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:52:15,115 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:52:15,115 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:53:55,974 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:53:55,974 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:53:55,974 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:53:55,974 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:54:38,422 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:54:38,422 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:54:38,422 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:54:38,422 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:55:16,012 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:55:16,012 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:55:16,012 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:55:16,012 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 11:55:42,407 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:55:42,407 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 11:55:42,407 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 11:55:42,407 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 12:00:50,808 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:00:50,808 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 12:00:50,808 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:00:50,808 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 12:01:21,979 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:01:21,979 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 12:01:21,979 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:01:21,979 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 12:03:05,365 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mvpigs:lamiaeElWahabi:0.0.1-SNAPSHOT @ C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\pom.xml.
+2018-02-12 12:03:05,678 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:03:05,678 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 12:03:05,678 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:03:05,678 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 12:03:06,865 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:03:06,865 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 12:03:06,865 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:03:06,865 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 12:03:38,478 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:03:38,478 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 12:03:38,478 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:03:38,478 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 12:04:25,756 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:04:25,756 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 12:04:25,757 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:04:25,758 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 12:04:36,510 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:04:36,510 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 12:04:36,512 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:04:36,512 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 12:05:02,354 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:05:02,354 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 12:05:02,356 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:05:02,357 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 12:14:39,950 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:14:39,950 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 12:14:39,950 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:14:39,950 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources
+2018-02-12 12:14:47,409 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:14:47,409 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\main\resources
+2018-02-12 12:14:47,425 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 12:14:47,425 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\PracticaExamCotxox\lamiaeElWahabi\src\test\resources

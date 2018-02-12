@@ -1,0 +1,38 @@
+package org.mvpigs.cotxox.carrera;
+
+public class Carrera {
+	//Propiedades
+	public String tarjetaCredito = "";
+	public String origen = "";
+	public String destino = "";
+	public double distancia = "";
+	private String tiempoEsperado = "";
+	private String tiempoCarrera = "";
+	private String costeTotal = "";
+	//private conductor = new Conductor();
+
+	public Carrera(String tarjetaCredito) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public void setOrigen(String origen) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setDestino(String destino) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setTiempoEsperado(int tiempoEsperadoMinutos) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setDistancia(double distancia) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
